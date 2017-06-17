@@ -1,0 +1,26 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Box Message */
+.box-message {
+    border: 1px solid #000;
+    font-size: 1.1em;
+    width: 450px;
+    height: 75px;
+    margin: 10px;
+    padding-left: 75px;
+    line-height: 75px;
+    background: no-repeat 25px center;
+}
+
+.info {
+    background-color: #d7eef6;
+    background-image: url(images/icon-info.png);
+    border-color: #cee0e4;
+    color: #3e5d6f;
+}
